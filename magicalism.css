@@ -1095,7 +1095,7 @@ input:checked+.slider {
 #bottomLeftHolder::before {
     content: " ";
     background-color: var(--accent);
-    -webkit-mask-image: url(https://media.discordapp.net/attachments/622258375245430790/900229331102609468/ezgif.com-gif-maker.png);
+    -webkit-mask-image: url(https://cdn.discordapp.com/attachments/918707427040432128/1082360915040677978/kouji.png);
     -webkit-mask-size: 840px;
     -webkit-mask-position: calc(50% - 110px) top;
     display: block;
