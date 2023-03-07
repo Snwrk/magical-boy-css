@@ -322,7 +322,7 @@
 }
 
 #gameNameHolder::after {
-    content: "魔法少女";
+    content: "魔法少年";
     position: absolute;
     bottom: 16px;
     left: 0;
