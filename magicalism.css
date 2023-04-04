@@ -303,6 +303,14 @@
 
 /*Section III: Main Menu*/
 
+#streamContainer {
+    display: none;
+}
+
+#menuClassIcn {
+    display: none;
+}
+
 #gameNameHolder {
     top: 20px;
     left: 20px;
